@@ -1,0 +1,10 @@
+h1, h3 {
+    color: blue;
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+}
+p, ul {
+    width: 40%;
+    margin: 0 auto;
+}
